@@ -1,7 +1,12 @@
 Olá! Eu sou Jhon 👋
 
-- 🔭 estudo JavaScript 
-- 🌱Pretendo trabalhar como desenvolvedor Front-end
+- ✒️ Linguagem onde eu mais me sinto confiante para atuar: JavaScript
+- 💻 Cursando: Análise e Desenvolvimento de sistema ( Área 1 BA - SSA )
+- 📕 Idioma falado: Inglês
+- 🛠️ Objetivo: trabalhar como desenvolvedor Front-end
+- 🏆Cursos concluídos:
+- 🥉cursos não concluídos: The Complete JavaScript Course 2022: From Zero to Expert!
+- 🎖️cursos que pretendo concluir: Roger Melo(JavaScript)(15%)
 - 📫 Contate-me no email: Am929410@gmail.com
 
 <div align="center">

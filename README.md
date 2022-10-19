@@ -1,6 +1,6 @@
 Olá! Eu sou Jhon 👋
 
-- ✒️ Linguagem onde eu mais me sinto confiante para atuar: JavaScript
+- ✒️ Estudando: JavaScript
 - 💻 Análise e Desenvolvimento de sistema ( Área 1 BA - SSA )
 - 📕 Idioma falado: Inglês
 - 🛠️ Objetivo: trabalhar como desenvolvedor Front-end
